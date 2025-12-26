@@ -4,12 +4,12 @@
 ![WebGL](https://img.shields.io/badge/Platform-WebGL-orange?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)
 
-An immersive 3D industrial walkthrough experience developed by **![Ankith C R](https://github.com/ankithcrgowda)**. This project allows users to explore a detailed industrial environment directly in their web browser using Unity's WebGL technology.
+An immersive 3D industrial walkthrough experience developed by **[Ankith C R](https://github.com/ankithcrgowda)**. This project allows users to explore a detailed industrial environment directly in their web browser using Unity's WebGL technology.
 
 In this game, players can explore the facility and search for hidden coins scattered throughout the area.
 
-<!-- ## 🎮 Live Demo
-> **Note:** To view the project, you can host these files on GitHub Pages or any static web server. -->
+## 🎮 Live Demo
+> <a href="https://ankithcrgowda.github.io/Industry-Walkthrough/">Click Here to Play</a>
 
 ## 📸 Screenshots
 
